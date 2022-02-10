@@ -1,2 +1,2 @@
 # Person-Management
-Private Practice - Java, Spring, Vaadin, JPA; H2
+Private Practice - Java, Spring, Vaadin, JPA, H2
